@@ -1,0 +1,18 @@
+Project 1: compressor rotor blade
+
+Problem Statement: Create a 5th stage compressor blade of an aero engine using drawing file and aerofoil data of sections.  
+
+
+Dataset: 
+1. Aerofoil data,
+2. Section data (coordinates). 
+
+
+Parts/Sub-parts: 
+1. Aerofoil sections,
+2. Dovetail root.  
+
+Result: 
+1. A full 5th stage compressor blade of an aero engine. 
+ 
+
