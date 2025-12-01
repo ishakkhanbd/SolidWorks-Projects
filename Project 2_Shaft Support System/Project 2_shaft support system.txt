@@ -1,0 +1,15 @@
+Project 2: shaft support system
+
+Problem Statement: Create a shaft support system.  
+
+
+Parts/Sub-parts: 
+1. Base, 
+2. Cover, 
+3. Bush, 
+4. Bolt.  
+
+Result: 
+1. A full shaft support system assembly. 
+ 
+
