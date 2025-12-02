@@ -1,0 +1,14 @@
+Project 3: Bridge Rope Support
+
+Problem Statement: Create a bridge rope support system.  
+
+
+Parts/Sub-parts: 
+1. Base, 
+2. Pulley, 
+3. Pin.   
+
+Result: 
+1. A full bridge rope support system assembly. 
+ 
+
