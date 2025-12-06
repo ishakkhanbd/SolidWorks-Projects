@@ -1,0 +1,19 @@
+Project4: valve assembly
+
+Problem Statement: Create a full valve assembly including the array of all components.  
+
+
+Parts/Sub-parts: 
+1. Disc, 
+2. Plate, 
+3. Cover,
+4. bolt, 
+5. bush, 
+6. key, 
+7. nut, 
+8. T bolt.    
+
+Result: 
+1. A full valve assembly including the array of all components. 
+ 
+
