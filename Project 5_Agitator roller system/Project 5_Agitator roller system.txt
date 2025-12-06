@@ -1,0 +1,16 @@
+Project 5: Agitator roller system
+
+Problem Statement: Create a full agitator roller system.  
+
+
+Parts/Sub-parts: 
+1. base plate, 
+2. bracket, 
+3. roller, 
+4. bush, 
+5. shaft.     
+
+Result: 
+1. A full agitator roller system. 
+ 
+
