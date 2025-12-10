@@ -1,0 +1,16 @@
+Project 8: CAM follower mechanism
+
+Problem Statement: Create a full CAM follower mechanism.  
+
+
+Parts/Sub-parts: 
+1. CAM, 
+2. Pin, 
+3. Plate, 
+4. Roller, 
+5. Shaft.     
+
+Result: 
+1. A full CAM follower system. 
+ 
+
