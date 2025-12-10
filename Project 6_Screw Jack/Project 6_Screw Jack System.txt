@@ -1,0 +1,18 @@
+Project 6: Screw Jack System
+
+Problem Statement: Create a full screw jack system.  
+
+
+Parts/Sub-parts: 
+1. body, 
+2. nut, 
+3. screw spindle, 
+4. cup, 
+5. special washer, 
+6. screw, 
+7. tommy bar.    
+
+Result: 
+1. A full screw jack system. 
+ 
+
