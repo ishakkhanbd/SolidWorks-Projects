@@ -1,0 +1,17 @@
+Project 9: Shaft fork system
+
+Problem Statement: Create a full shaft fork system. 
+
+
+Parts/Sub-parts: 
+1. fork, 
+2. nut, 
+3. bolt, 
+4. shaft, 
+5. pin. 
+     
+
+Result: 
+1. A full shaft fork system. 
+ 
+
